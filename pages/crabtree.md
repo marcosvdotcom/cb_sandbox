@@ -28,7 +28,7 @@ At his death, Crabtree gave his lithic collection along with research and corres
 
 In 2021, the **University of Idaho Library and the Bowers Lab** received a $240,206 three-year grant to 3-d digitize a small subset of the massive collection, in the hopes of bringing the extraordinary creativity, talent, and history of Donald Crabtree to a broader audience.
 
-> Many times, I have asked myself, what is the purpose of lithic technology and experimental archaeology and what impact will it have on our knowledge of the Stone Age? One answer always persists: It is a useful aid in the interpretation and understanding of the fossilized remains of human behavior patterns of prehistoric societies….The future of prehistoric technology (research) is, indeed, vast with an unforeseeable end." Don Crabtree, “The Potential of Lithic Technology"
+> Many times, I have asked myself, what is the purpose of lithic technology and experimental archaeology and what impact will it have on our knowledge of the Stone Age? One answer always persists: It is a useful aid in the interpretation and understanding of the fossilized remains of human behavior patterns of prehistoric societies….The future of prehistoric technology (research) is, indeed, vast with an unforeseeable end. Don Crabtree, in The Potential of Lithic Technology
 
 ### Crabtree Collections Around Idaho and the World
 
@@ -51,9 +51,8 @@ Crabtree has significant collections in universities around the world, with thre
 
 ### U of I Dissertations
 
-[Reflections in Stone Tools: A Life Story of Don E. Crabtree](https://www.proquest.com/docview/2115845790?accountid=14551&fromopenview=true&parentSessionId=2FVPn1vl4niZ6L%2FTJw2LKt%2Fi3u%2BEA9vWjWg36ntlBcY%3D&parentSessionId=9Grsa%2B6yejmmrF5XpYdm9urTTJK%2FmUOf39n3PQQrkyI%3D&pq-origsite=gscholar&sourcetype=Dissertations%20&%20Theses)
-
-"Dr. Don E. Crabtree, as one of the pioneers of academic flintknapping, developed an experimental approach in lithic studies during 1960s and 1970s. His diverse replication studies left a great impact on the field of archaeology not only in the Pacific Northwest, but also throughout the United States, Canada, and other countries. His story outside of publications, however, has been known by a very few people. Since his life had always been intertwined with academic flintknapping, learning his life stories allows us to better understand the importance and potential of experimental approach in archaeology. With his numerous professional and personal data collection at the Alfred W. Bowers Laboratory of Anthropology, this paper revisits the life of Crabtree and explores the contributions and influences he left in the field. It intends to help lithic students and scholars appreciate what Crabtree and his hands-on method really mean to us." By Yuumi Danner
+"Dr. Don E. Crabtree, as one of the pioneers of academic flintknapping, developed an experimental approach in lithic studies during 1960s and 1970s. His diverse replication studies left a great impact on the field of archaeology not only in the Pacific Northwest, but also throughout the United States, Canada, and other countries. His story outside of publications, however, has been known by a very few people. Since his life had always been intertwined with academic flintknapping, learning his life stories allows us to better understand the importance and potential of experimental approach in archaeology. With his numerous professional and personal data collection at the Alfred W. Bowers Laboratory of Anthropology, this paper revisits the life of Crabtree and explores the contributions and influences he left in the field. It intends to help lithic students and scholars appreciate what Crabtree and his hands-on method really mean to us."
+From, [Reflections in Stone Tools: A Life Story of Don E. Crabtree, by Yummi Danner](https://www.proquest.com/docview/2115845790?accountid=14551&fromopenview=true&parentSessionId=2FVPn1vl4niZ6L%2FTJw2LKt%2Fi3u%2BEA9vWjWg36ntlBcY%3D&parentSessionId=9Grsa%2B6yejmmrF5XpYdm9urTTJK%2FmUOf39n3PQQrkyI%3D&pq-origsite=gscholar&sourcetype=Dissertations%20&%20Theses)
 
 ### Crabtree Award from the Society of American Archaeologists 
 
@@ -62,7 +61,6 @@ Crabtree has significant collections in universities around the world, with thre
 
 ### Crabtree field schools information 
 
-One of Crabtree's most important legacies is the generations of flintknappers he inspired, mentored, and collaborated with
-via his field schools. Supported by the National Science Foundation, this unique effort was quintessentially Crabtree - bringing together folks from varying backgrounds, education levels, and walks of life, to learn the timeless art of flintknapping from a living master. Crabtree's legacy lives in on the many practicing flintkappers today who credit his field schools as places where they, or their parents or mentors learned flintknapping from Donald Crabtree.
+One of Crabtree's most important legacies is the generations of flintknappers he inspired, mentored, and collaborated with via his field schools. Supported by the National Science Foundation, this unique effort was quintessentially Crabtree - bringing together folks from varying backgrounds, education levels, and walks of life, to learn the timeless art of flintknapping from a living master. Crabtree's legacy lives in on the many practicing flintkappers today who credit his field schools as places where they, or their parents or mentors learned flintknapping from Donald Crabtree.
 
 {% include feature/image.html objectid="ce_b81_f18-item8;ce_b29_f9-item2" %}
