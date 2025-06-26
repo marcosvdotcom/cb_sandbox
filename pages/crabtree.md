@@ -6,7 +6,7 @@ credits: true
 ---
 ## Donald E. Crabtree Biography
 
-This biography appears courtesty of Crabtree descendent, Julia Anderson. 
+This biography appears courtesy of Crabtree descendent, Julia Anderson. 
 
 Idaho-native **Donald E. Crabtree (1912-1980)** remains a towering figure in the investigation of stone toolmaking by ancient people. His groundbreaking 1972 publication, ***“An Introduction to Flintworking,”***  remains a basic text in classrooms and workshops with his work cited thousands of times in archaeological literature throughout the world.  
 
@@ -14,17 +14,17 @@ Crabtree’s lifelong passion was the investigation of the toolmaking process, n
 
 **National Science Foundation** funding and an affiliation with **Idaho State University** allowed a cadre of young Ph.D. archaeology candidates to attend **Crabtree Field Schools** held summers near his Kimberly, Idaho home from 1969 to 1975\. **Washington State University’s Lithic Technology Lab** continued the field schools into the late 1970s with Crabtree in attendance.  
 
-**“His contributions to archaeology are among the most significant in the twentieth century,”** said Dr. Barbara Purdy**,** an early field school attendee and professor emerita of the Department of Anthropology at the University of Florida. 
+**“His contributions to archaeology are among the most significant in the twentieth century,”** said Dr. Barbara Purdy, an early field school attendee and professor emerita of the Department of Anthropology at the University of Florida. 
 
-**His impact on the profession (of archaeology) was Herculean,” r**emarked Dr. William Andrefsky Jr., chair emeritus of the WSU Department of Anthropology and Graduate School dean. 
+**His impact on the profession (of archaeology) was Herculean,”** remarked Dr. William Andrefsky Jr., chair emeritus of the WSU Department of Anthropology and Graduate School dean. 
 
 Lee Sappington, **University of Idaho** emeritus professor of Anthropology in the Dept. of Culture, Society and Justice explained that Crabtree’s students and in turn their students spread his ideas and tool analysis techniques, worldwide. 
 
-[**“Blades and Pressure Flaking,”**](https://www.youtube.com/watch?v=6F7wrtzZ_dQ), a film made in collaboration with French archaeologist Francois Bordes, in 1968 elevated “Mr. Crabtree” to world status. Bordes called him “a world authority on pressure flaking technique.”  
+[**“Blades and Pressure Flaking,”**](https://www.youtube.com/watch?v=6F7wrtzZ_dQ) a film made in collaboration with French archaeologist Francois Bordes, in 1968 elevated “Mr. Crabtree” to world status. Bordes called him “a world authority on pressure flaking technique.”  
 
 Donald Crabtree received an **honorary doctorate from the** **University of Idaho** in 1979 for “outstanding contributions to the field of experimental archaeology.”  He died at 68 the following year.  
 
-At his death, Crabtree gave his lithic collection along with research and correspondence to the **Alfred W. Bowers Laboratory of Anthropology at the University of Idaho.** The collection includes 3,154 stone tool replications made by Crabtree and by others as well as 4,391 archival items \-- photograph, slides, esearch documents and correspondence.
+At his death, Crabtree gave his lithic collection along with research and correspondence to the **Alfred W. Bowers Laboratory of Anthropology at the University of Idaho.** The collection includes 3,154 stone tool replications made by Crabtree and by others as well as 4,391 archival items \-- photograph, slides, research documents and correspondence.
 
 In 2021, the **University of Idaho Library and the Bowers Lab** received a $240,206 three-year grant to 3-d digitize a small subset of the massive collection, in the hopes of bringing the extraordinary creativity, talent, and history of Donald Crabtree to a broader audience.
 
@@ -34,38 +34,26 @@ In 2021, the **University of Idaho Library and the Bowers Lab** received a $240,
 
 Crabtree has significant collections in universities around the world, with three core collections in the state of Idaho:
 
-- [College of Southern Idaho Herrett Center](https://herrett.csi.edu/), Twin Falls, Idaho, 
-- [Crabtree Experimental Archaeolgy Laboratory](https://www.isu.edu/anthropology/student-experience/anthropology-research-labs/crabtree-experimental-archaeology-laboratory/), Idaho State University, Pocatello, Idaho
-- [University of Idaho Alfred W. Bowers Laboratory of Anthropology](https://www.uidaho.edu/class/anthrolab), Moscow, Idaho
-
-- [Univeristy of Alberta Bryan/Gruhn Archaeology Collection](https://www.ualberta.ca/en/museums/museum-collections/archaeology-collection.html), University of Alberta, Edmondton, AB Canada
+- [College of Southern Idaho Herrett Center](https://herrett.csi.edu/), Twin Falls, Idaho.
+- [Crabtree Experimental Archaeolgy Laboratory](https://www.isu.edu/anthropology/student-experience/anthropology-research-labs/crabtree-experimental-archaeology-laboratory/), Idaho State University, Pocatello, Idaho.
+- [University of Idaho Alfred W. Bowers Laboratory of Anthropology](https://www.uidaho.edu/class/anthrolab), Moscow, Idaho.
+- [Univeristy of Alberta Bryan/Gruhn Archaeology Collection](https://www.ualberta.ca/en/museums/museum-collections/archaeology-collection.html), University of Alberta, Edmonton, Alberta, Canada.
 
 
 ### Further Links
 
 "In 'The Flintworker' Don Crabtree demonstrates the making of stone tools using the cone principle which predicts where and how stone will fracture. Originally produced as a motion picture in 1972 with National Science Foundation Grant. "One in a film series on the subject of lithic technology."
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Th7vmgYqhqU?si=k6RVxvISQcp-LAeG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include feature/video.html objectid="https://www.youtube.com/embed/Th7vmgYqhqU" %}
 
--[Making a hidden collection of stone tools accesible](https://www.dnews.com/local-news/making-a-hidden-collection-of-stone-tools-accessible6906a835) by Jylisa Kenyon, Moscow Pullman Daily News - October, 2021
+- [Making a hidden collection of stone tools accessible](https://www.dnews.com/local-news/making-a-hidden-collection-of-stone-tools-accessible6906a835) by Jylisa Kenyon, Moscow Pullman Daily News - October, 2021
 
 
-### UIdaho Dissertations
-
+### U of I Dissertations
 
 [Reflections in Stone Tools: A Life Story of Don E. Crabtree](https://www.proquest.com/docview/2115845790?accountid=14551&fromopenview=true&parentSessionId=2FVPn1vl4niZ6L%2FTJw2LKt%2Fi3u%2BEA9vWjWg36ntlBcY%3D&parentSessionId=9Grsa%2B6yejmmrF5XpYdm9urTTJK%2FmUOf39n3PQQrkyI%3D&pq-origsite=gscholar&sourcetype=Dissertations%20&%20Theses)
 
-"Dr. Don E. Crabtree, as one of the pioneers of academic flintknapping, developed an
-experimental approach in lithic studies during 1960s and 1970s. His diverse replication
-studies left a great impact on the field of archaeology not only in the Pacific Northwest, but
-also throughout the United States, Canada, and other countries. His story outside of
-publications, however, has been known by a very few people. Since his life had always been
-intertwined with academic flintknapping, learning his life stories allows us to better
-understand the importance and potential of experimental approach in archaeology. With his
-numerous professional and personal data collection at the Alfred W. Bowers Laboratory of
-Anthropology, this paper revisits the life of Crabtree and explores the contributions and
-influences he left in the field. It intends to help lithic students and scholars appreciate what
-Crabtree and his hands-on method really mean to us." By Yuumi Danner
+"Dr. Don E. Crabtree, as one of the pioneers of academic flintknapping, developed an experimental approach in lithic studies during 1960s and 1970s. His diverse replication studies left a great impact on the field of archaeology not only in the Pacific Northwest, but also throughout the United States, Canada, and other countries. His story outside of publications, however, has been known by a very few people. Since his life had always been intertwined with academic flintknapping, learning his life stories allows us to better understand the importance and potential of experimental approach in archaeology. With his numerous professional and personal data collection at the Alfred W. Bowers Laboratory of Anthropology, this paper revisits the life of Crabtree and explores the contributions and influences he left in the field. It intends to help lithic students and scholars appreciate what Crabtree and his hands-on method really mean to us." By Yuumi Danner
 
 ### Crabtree Award from the Society of American Archaeologists 
 
@@ -75,26 +63,6 @@ Crabtree and his hands-on method really mean to us." By Yuumi Danner
 ### Crabtree field schools information 
 
 One of Crabtree's most important legacies is the generations of flintknappers he inspired, mentored, and collaborated with
-via his field schools. Supported by the National Science Foundation, this unique effort was quinessentially Crabtree - bringing together folks from varying backgrounds, education levels, and walks of life, to learn the timeless art of flintknapping from a living master. Crabtree's legacy lives in on the many practicing flintkappers today who credit his field schools as places where they, or their parents or mentors learned flintknapping from Donald Crabtree.
+via his field schools. Supported by the National Science Foundation, this unique effort was quintessentially Crabtree - bringing together folks from varying backgrounds, education levels, and walks of life, to learn the timeless art of flintknapping from a living master. Crabtree's legacy lives in on the many practicing flintkappers today who credit his field schools as places where they, or their parents or mentors learned flintknapping from Donald Crabtree.
 
-includes:
-https://www.lib.uidaho.edu/digital/crabtree/items/ce_b81_f18-item8.html
-https://www.lib.uidaho.edu/digital/crabtree/items/ce_b29_f9-item2.html
-
-{% include feature/image.html objectid="CE_B81_F18-Item8" %}
-test
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/digital/crabtree/items/ce_b81_f18-item8.html" %}
-
-
-{% include objectid="CE_B81_F18-Item8" %}
-
-<!---*Updated from [Alfred W. Bowers Laboratory of Anthropology](https://www.uidaho.edu/class/anthrolab/collections/crabtree)*
-
-Donald E. Crabtree was born in Heyburn, Idaho on June 8, 1912 to Reverend Ellis and Mabel G. Crabtree. After graduating high school in Twin Falls, Idaho in 1930, Crabtree worked for the Idaho Power Company for a brief period. He then moved to California and enrolled in Long Beach Junior College, intending to major in geology and paleontology. His interest in those topics and in prehistoric archaeology had developed during a childhood and youth spent exploring south-central Idaho. During this time, Crabtree tried flintknapping, but at the time, it was not his primary focus. After just one term, Crabtree dropped out and began working in paleontological laboratories and doing summer fieldwork in California and Nevada. 
-
-In 1939, Crabtree was diagnosed with cancer and spent his recuperation period, when his mobility and muscular strength were limited, flintknapping, all the while learning more about lithic mechanics, systems of efficient core reduction and the significance of variations among the newly identified paleo-Indian points from the Plains and Southwest. In 1941, after fully recovering from cancer, Crabtree was invited to demonstrate flintknapping techniques at the American Association of Museums' annual meeting in Columbus, Ohio. In the fall of 1941, Crabtree returned to California to support the World War II effort, during which time he met his future wife Evelyn Josephine Meadows; they married in Long Beach in 1943. 
-
-For the next 30 years, Crabtree continued to hone his skill and expertise in flintknapping, forming connections with researchers and flintknappers around the world. Crabtree also willingly shared his knowledge at various field schools and during informal interactions, encouraging others to learn the art and science of flintknapping. During this period, Crabtree authored or co-authored 23 scholarly articles, was featured in seven films, and led the Idaho State University National Science Foundation Flintworking School (1969-1975). 
-
-In 1979, Crabtree’s lifelong contribution to the field of archaeology was recognized with an honorary doctorate from the University of Idaho. Since 1985, the Society for American Archaeology has also awarded the prestigious “[Crabtree Award](https://www.saa.org/career-practice/awards/crabtree-award)” to outstanding avocational archaeologists who have made significant contributions to the discipline. Crabtree died in Twin Falls, Idaho on November 16, 1980.--->
-
+{% include feature/image.html objectid="ce_b81_f18-item8;ce_b29_f9-item2" %}
