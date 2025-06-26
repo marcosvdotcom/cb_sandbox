@@ -28,7 +28,7 @@ At his death, Crabtree gave his lithic collection along with research and corres
 
 In 2021, the **University of Idaho Library and the Bowers Lab** received a $240,206 three-year grant to 3-d digitize a small subset of the massive collection, in the hopes of bringing the extraordinary creativity, talent, and history of Donald Crabtree to a broader audience.
 
-> Many times, I have asked myself, what is the purpose of lithic technology and experimental archaeology and what impact will it have on our knowledge of the Stone Age? One answer always persists: It is a useful aid in the interpretation and understanding of the fossilized remains of human behavior patterns of prehistoric societies….The future of prehistoric technology (research) is, indeed, vast with an unforeseeable end. Don Crabtree, in The Potential of Lithic Technology
+{% include feature/blockquote.html quote="Many times, I have asked myself, what is the purpose of lithic technology and experimental archaeology and what impact will it have on our knowledge of the Stone Age? One answer always persists: It is a useful aid in the interpretation and understanding of the fossilized remains of human behavior patterns of prehistoric societies….The future of prehistoric technology (research) is, indeed, vast with an unforeseeable end." speaker="Don Crabtree" source="The Potential of Lithic Technology" %}
 
 ### Crabtree Collections Around Idaho and the World
 
