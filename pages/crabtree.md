@@ -36,7 +36,7 @@ In 1958, Earl H. Swanson Jr., who established the first major archaeological pro
 {% include feature/image.html objectid="ce_b83_f3-item1-024;" %}
 {% include feature/image.html objectid="ce_b81_f17-item5;ce_b78_f1-item1-001;" %}
 {% include feature/image.html objectid="ce_b78_f3-item3-001" %}
-{% include feature/image.html objectid="ce_b29_f9-item2;ce_b29_f4-item8;" %}
+{% include feature/image.html objectid="ce_b29_f5-item1;ce_b29_f4-item8;" %}
 {% include feature/image.html objectid="ce_b81_f19-item24;ce_b81_f19-item23;" %}
 {% include feature/image.html objectid="ce_b81_f28-item19;" %}
 {% include feature/image.html objectid="ce_b81_f25-item25;ce_b81_f20-item26;" %}
