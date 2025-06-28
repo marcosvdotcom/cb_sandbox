@@ -1,10 +1,10 @@
 ---
 title: About Donald Crabtree
 layout: page-narrow
-permalink: /crabtree.html
+permalink: /crabtree_legacy.html
 credits: true
 ---
-## Donald E. Crabtree Biography
+## Donald E. Crabtree Legacy and Impact
 
 This biography appears courtesy of Crabtree descendent, Julia Anderson. 
 
