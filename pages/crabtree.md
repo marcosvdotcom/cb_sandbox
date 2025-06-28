@@ -16,7 +16,7 @@ Crabtree’s lifelong passion was the investigation of the toolmaking process, n
 
 **“His contributions to archaeology are among the most significant in the twentieth century,”** said Dr. Barbara Purdy, an early field school attendee and professor emerita of the Department of Anthropology at the University of Florida. 
 
-**His impact on the profession (of archaeology) was Herculean,”** remarked Dr. William Andrefsky Jr., chair emeritus of the WSU Department of Anthropology and Graduate School dean. 
+**"His impact on the profession (of archaeology) was Herculean,”** remarked Dr. William Andrefsky Jr., chair emeritus of the WSU Department of Anthropology and Graduate School dean. 
 
 Lee Sappington, **University of Idaho** emeritus professor of Anthropology in the Dept. of Culture, Society and Justice explained that Crabtree’s students and in turn their students spread his ideas and tool analysis techniques, worldwide. 
 
@@ -63,4 +63,8 @@ From, [Reflections in Stone Tools: A Life Story of Don E. Crabtree, by Yummi Dan
 
 One of Crabtree's most important legacies is the generations of flintknappers he inspired, mentored, and collaborated with via his field schools. Supported by the National Science Foundation, this unique effort was quintessentially Crabtree - bringing together folks from varying backgrounds, education levels, and walks of life, to learn the timeless art of flintknapping from a living master. Crabtree's legacy lives in on the many practicing flintkappers today who credit his field schools as places where they, or their parents or mentors learned flintknapping from Donald Crabtree.
 
-{% include feature/image.html objectid="ce_b81_f18-item8;ce_b29_f9-item2" %}
+{% include feature/image.html objectid="ce_b81_f18-item8;ce_b81_f18-item11;ce_b29_f9-item2;ce_b29_f4-item8;" %}
+
+<a href="https://www.lib.uidaho.edu/digital/crabtree/items/ce_cd_d4_3508-a.html">
+	<img src="https://objects.lib.uidaho.edu/crabtree/small/ce_cd_d4_3508-a_sm.jpg" alt="Alt Thext" width="400" >
+</a>
