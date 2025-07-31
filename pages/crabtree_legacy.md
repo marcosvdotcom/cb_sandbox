@@ -31,7 +31,7 @@ Lee Sappington, **University of Idaho** emeritus professor of Anthropology in th
 Lorann Pendleton, lithic specialist and director (retired) of archaeology lab at the American Museum of Natural History in New York, N.Y. used Crabtree’s 1972 “An Introduction to Flintworking,” in her mentoring classes. “It’s the first publication I assign, as it is still the bible on flintknapping. It also serves as our primary dictionary of flintknapping terms. Without this publication, the entire field of lithic analysis simply would not exist. RARE is the scholar who can foster an entirely new field of study. Don Crabtree did that and his work is ageless.” 
 
 Read more from current experts in archaeology on Crabtee's legacy and impact here:
-{% icnlude feature/image.html objectid="ce_731_item6"}
+{% include feature/image.html objectid="ce_731_item6"}
 
 [**“Blades and Pressure Flaking,”**](https://www.youtube.com/watch?v=6F7wrtzZ_dQ) a film made in collaboration with French archaeologist Francois Bordes, in 1968 elevated “Mr. Crabtree” to world status. Bordes called him “a world authority on pressure flaking technique.” 
 
