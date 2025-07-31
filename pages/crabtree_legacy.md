@@ -12,6 +12,8 @@ This biography appears courtesy of Crabtree descendent, Julie Anderson.
 
 Idahaon **Donald E. Crabtree (1912-1980)** remains a towering figure in the investigation of stone toolmaking by ancient people. His groundbreaking 1972 publication, ***“An Introduction to Flintworking,”***  remains a basic text in classrooms and workshops with his work cited thousands of times in archaeological literature throughout the world.  
 
+{% include feature/image.html objectid="ce_731_item7;"}
+
 Crabtree’s lifelong passion was the investigation of the toolmaking process, not the finished product. His replication research was pivotal in the study of debitage, the debris left from rock chipping. He brought stone heat-treatment techniques to the field of modern archaeology. Though he has been gone almost 50 years, his work is relevant to a new generation of researchers studying lithic tool production, rock quarry “workshops,” ancient trade networks and settlements of prehistoric people. 
 
 {% include feature/image.html objectid="ce_b81_f19-item20;ce_b81_f19-item29" %}
@@ -25,6 +27,11 @@ Crabtree’s lifelong passion was the investigation of the toolmaking process, n
 **"His impact on the profession (of archaeology) was Herculean,”** remarked Dr. William Andrefsky Jr., chair emeritus of the WSU Department of Anthropology and Graduate School dean. 
 
 Lee Sappington, **University of Idaho** emeritus professor of Anthropology in the Dept. of Culture, Society and Justice explained that Crabtree’s students and in turn their students spread his ideas and tool analysis techniques, worldwide. 
+
+Lorann Pendleton, lithic specialist and director (retired) of archaeology lab at the American Museum of Natural History in New York, N.Y. used Crabtree’s 1972 “An Introduction to Flintworking,” in her mentoring classes. “It’s the first publication I assign, as it is still the bible on flintknapping. It also serves as our primary dictionary of flintknapping terms. Without this publication, the entire field of lithic analysis simply would not exist. RARE is the scholar who can foster an entirely new field of study. Don Crabtree did that and his work is ageless.” 
+
+Read more from current experts in archaeology on Crabtee's legacy and impact here:
+{% icnlude feature/image.html objectid="ce_731_item6"}
 
 [**“Blades and Pressure Flaking,”**](https://www.youtube.com/watch?v=6F7wrtzZ_dQ) a film made in collaboration with French archaeologist Francois Bordes, in 1968 elevated “Mr. Crabtree” to world status. Bordes called him “a world authority on pressure flaking technique.” 
 
