@@ -17,7 +17,7 @@ Donald Crabtree was a unique and interesting person, who's passion and self-guid
 - [The Donald Crabtree Collection and the University of Idaho ](/crabtree_long.html)
    - Written by Bowers Lab Assistant, Tim Mace.
 
-Yumi Danner's thesis also contains useful biographic information.
+Yummi Danner's thesis also contains useful biographic information.
 
 - [ Reflections in Stone Tools: A Life Story of Don E. Crabtree, by Yummi Danner](https://www.proquest.com/docview/2115845790?accountid=14551&fromopenview=true&parentSessionId=2FVPn1vl4niZ6L%2FTJw2LKt%2Fi3u%2BEA9vWjWg36ntlBcY%3D&parentSessionId=9Grsa%2B6yejmmrF5XpYdm9urTTJK%2FmUOf39n3PQQrkyI%3D&pq-origsite=gscholar&sourcetype=Dissertations%20&%20Theses)
 
