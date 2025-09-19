@@ -60,7 +60,9 @@ World War II interrupted his work, again. As the war started, Don Crabtree went 
 ## Return to Idaho
 
 After the war, Ellis, then 71, and Mabel Crabtree, 61, retired and moved to a smaller house in Twin Falls where they continued to make pickles in their basement and host Sunday family dinners. The Crabtree Pickle Co. was sold to Don’s older sister, Virginia, and her husband, Lewis Hack. Don and Evelyn took over the  Twin Falls “motel” business and property that they later sold. Don then went to work for the local office of the federal ASCS (Agricultural Stablizatioin and Conservation Service) while continuing his research work related to stone tool replication.  
+
 In 1958 and again in1959, Don and Evelyn made trips to Mexico to learn more about how ancient Mayans flaked blades from obsidian cores. Diving deeper into translated toolmaking observations written in 1615 by a Franciscan friar, Crabtree devised a chest crutch with an extended attachment and antler point to “punch” fluted razor-thin blades from a core. He successfully used the technique with his Folsom and Clovis point experiments to create nearly perfect fluted points.  
+
 In the 1950s, Crabtree began sharing his flintknapping expertise and research with Dr. Earl Swanson, professor of anthropology at **Idaho State University** in Pocatello. The relationship intensified when in 1962, Crabtree experienced a coronary occlusion while hunting for obsidian volcanic glass specimens in the desert near Arco, Idaho. The “attack” weakened his heart and forced him to retire from the ag job but gave him more time to experiment.   
 
 As a lithic technology research associate at the **Idaho Museum of Natural History**, Crabtree began publishing his work through the ISU journal, “*Tebiwa.”*  
@@ -68,6 +70,7 @@ As a lithic technology research associate at the **Idaho Museum of Natural Histo
 In 1964, supported by **National Science Foundation** funding, Crabtree attended a **Lithic Technology Conference in Les Eyzies, France.** There, Dr. Francois Bordes of the Laboratory of Prehistory of the University of Bordeaux, and Dr. Jacques Tixier with the French Institute of Human Paleontology became fascinated with what Crabtree was doing. In 1968, **“*Blades and Pressure Flaking,”*** a film (available on YouTube) made in collaboration with Bordes elevated “Mr. Crabtree” to international status. Bordes called him “a world authority on pressure flaking technique.” Tixier and Bordes became friends with the Crabtrees and visited their Idaho home more than once. Others included Dr. Norman Tindale of the **University of Adelaide** in Australia who was investigating Aboriginal toolmaking.   
 
 With **National Science Foundation** funding and the Idaho State affiliation, a cadre of young graduate archaeology students were selected to attend **Crabtree Field Schools,** held summers near Twin Falls from 1969 through 1975 where Don Crabtree shared his skills and mentored attendees. The field schools ended with Swanson’s sudden death at age 47 in 1975\.   
+
 **Washington State University’s Lithic Technology Lab** hosted similar field schools throughout the rest of the decade with Crabtree in attendance. Early on Swanson used NFS funding to produce five films featuring Don Crabtree showcasing his work. The films remain available through the **Idaho Museum of Natural History**’s YouTube channel with these titles: “*The Shadow of Man*,” “*The Flintworker*,” “*Ancient Projectile Points*,” “*The Hunter’s Edge*,” and “*The Alchemy of Time.*” 
 
 ## The Crabtree Phenomenon
@@ -92,7 +95,7 @@ In June 1979, Donald Crabtree received an honorary doctorate from the **Universi
 Don Crabtree died at age 68 in November 1980. At his death, the Crabtree lithic collection and research papers went to the **Alfred W. Bowers Laboratory of Anthropology at the University of Idaho.** The collection includes 3,154 stone tool replications made by Crabtree and by others as well as 4,391 archival items \-- photographs**,** slides, research documents, and correspondence.  
 In 2021, the **University of Idaho Library and the Bowers Lab** received a $240,206 three-year grant to digitize the Crabtree collection, searchable at the UI Library Donald E. Crabtree Lithic Technology Collection website.
 
-*“Many times, I have asked myself, what is the purpose of lithic technology and experimental archaeology and what impact will it have on our knowledge of the Stone Age? One answer always persists: It is a useful aid in the interpretation and understanding of the fossilized remains of human behavior patterns of prehistoric societies….The future of prehistoric technology is, indeed, vast with an unforeseeable end."*  – Don Crabtree, ***“The Potential of Lithic Technology.”***
+{% include feature/blockquote.html quote="Many times, I have asked myself, what is the purpose of lithic technology and experimental archaeology and what impact will it have on our knowledge of the Stone Age? One answer always persists: It is a useful aid in the interpretation and understanding of the fossilized remains of human behavior patterns of prehistoric societies….The future of prehistoric technology (research) is, indeed, vast with an unforeseeable end." speaker="Don Crabtree" source="The Potential of Lithic Technology" %}
 
 **\---*By Julia L. Anderson,  Don Crabtree niece. (2025).***
 

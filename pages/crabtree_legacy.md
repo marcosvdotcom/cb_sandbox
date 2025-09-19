@@ -6,11 +6,11 @@ credits: true
 ---
 ## Donald E. Crabtree's Legacy and Impact
 
-This biography appears courtesy of Crabtree descendent, Julie Anderson. 
+This overview appears courtesy of Crabtree descendent, Julie Anderson. 
 
 {% include feature/image.html objectid="ce_b81_f25-item26;" %}
 
-Idahaon **Donald E. Crabtree (1912-1980)** remains a towering figure in the investigation of stone toolmaking by ancient people. His groundbreaking 1972 publication, ***“An Introduction to Flintworking,”***  remains a basic text in classrooms and workshops with his work cited thousands of times in archaeological literature throughout the world.  
+Idahaon **Donald E. Crabtree (1912-1980)** remains a central figure in the investigation of stone toolmaking by ancient people. His groundbreaking 1972 publication, ***“An Introduction to Flintworking,”***  remains a basic text in classrooms and workshops with his work cited thousands of times in archaeological literature throughout the world.  
 
 {% include feature/image.html objectid="ce_731_item7;" %}
 
@@ -47,26 +47,23 @@ At his death, Crabtree gave his lithic collection along with research and corres
 In 2021, the **University of Idaho Library and the Bowers Lab** received a $240,206 three-year grant to 3-d digitize a small subset of the massive collection, in the hopes of bringing the extraordinary creativity, talent, and history of Donald Crabtree to a broader audience.
 
 {% include feature/image.html objectid="ce_b81_f20-item9;" %}
-{% include feature/blockquote.html quote="Many times, I have asked myself, what is the purpose of lithic technology and experimental archaeology and what impact will it have on our knowledge of the Stone Age? One answer always persists: It is a useful aid in the interpretation and understanding of the fossilized remains of human behavior patterns of prehistoric societies….The future of prehistoric technology (research) is, indeed, vast with an unforeseeable end." speaker="Don Crabtree" source="The Potential of Lithic Technology" %}
 
 ### Crabtree Collections Around Idaho and the World
 
 Crabtree has significant collections in universities around the world, with three core collections in the state of Idaho:
 
 - [College of Southern Idaho Herrett Center](https://herrett.csi.edu/), Twin Falls, Idaho.
-Located in Twin Falls, Idaho near his home, the Herrett Center for Arts and Science curates over 500 objects from Don Crabtree’s career. The collection predominately features tools from Mr. Crabtree’s personal flintknapping kit and examples of experimental flintknapping.
-Learn more: {% include feature/image.html objectid="ce_731_item5;" %} 
+    - Located in Twin Falls, Idaho near his home, the Herrett Center for Arts and Science curates over 500 objects from Don Crabtree’s career. The collection predominately features tools from Mr. Crabtree’s personal flintknapping kit and examples of experimental flintknapping.
 
--[Idaho Museum of Natural History: Crabtree Colletion](https://www.isu.edu/imnh/), Idaho State University, Pocatello, Idaho
-The museum houses more than 1,300 objects created during Crabtree’s field schools (1969-1975) sponsored by the National Science Foundation and hosted through Idaho State University. The museum is also home to Crabtree experimentation materials and houses the originals from Crabtree/ISU filming projects.
-Learn more: {% include feature/image.html objectid="ce_731_item1;" %} 
+- [Idaho Museum of Natural History: Crabtree Colletion](https://www.isu.edu/imnh/), Idaho State University, Pocatello, Idaho
+    - The museum houses more than 1,300 objects created during Crabtree’s field schools (1969-1975) sponsored by the National Science Foundation and hosted through Idaho State University. The museum is also home to Crabtree experimentation materials and houses the originals from Crabtree/ISU filming projects.
 
 - [University of Idaho Alfred W. Bowers Laboratory of Anthropology](https://www.uidaho.edu/class/anthrolab), Moscow, Idaho.
 
 Other collections of note:
 
-- [Celebration Park](), Melba, Idaho. An education-focused, hands-on park, with programming centering Crabtree's infamous heart surgeries using obsidian tools.
-Learn more: {% include feature/image.html objectid="ce_731_item2;" %} 
+- [Celebration Park](https://www.canyoncounty.id.gov/project/celebration-park/), Melba, Idaho. 
+    - An education-focused, hands-on park, with programming centering Crabtree's infamous heart surgeries using obsidian tools.
 
 - [Univeristy of Alberta Bryan/Gruhn Archaeology Collection](https://www.ualberta.ca/en/museums/museum-collections/archaeology-collection.html), University of Alberta, Edmonton, Alberta, Canada.
 
