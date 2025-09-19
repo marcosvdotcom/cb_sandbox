@@ -7,6 +7,10 @@ credits: true
 ## Donald E. Crabtree (1912-1980)  
 ### By Crabtree descendent Julia L. Anderson 
 
+{% include figure.html img="/objects/images/1.png" alt="" caption="" %}
+
+{% include figure.html img="/objects/images/1.png" alt="Donald Crabtree stands on a desk in a typical university lab, preparing to use his self-constructed chest cruch to punch an obsidian core" caption="Crabtree demonstrating his reinvented chest crutch method of “punching” blades from an obsidian core, 1966. “Flintknapper at Work,” Recorder “Red lake” publication. Society of American Archaeology 1966." %}
+
 **Donald E. Crabtree** remains a towering figure in the investigation of stone toolmaking by ancient people.  Nearly 50 years after his death in 1980, Crabtree’s groundbreaking publication, ***“An Introduction to Flintworking,”***  remains a basic text in classrooms and workshops. Citations of his work in archaeological literature number in the thousands. 
 
 Mostly self-educated, Crabtree was a singular expert on the technology and science of prehistoric toolmaking, otherwise known as flintknapping. His replication research is pivotal in the study of debitage, the debris left from rock chipping. He brought stone heat treatment processes to the field of archaeology. Generations of researchers use Crabtree analytics to study rock chipping, rock quarry “workshops,” ancient trade networks and prehistoric settlements.
