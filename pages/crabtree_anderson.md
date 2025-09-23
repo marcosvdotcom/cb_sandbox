@@ -42,7 +42,7 @@ By 1924, the Crabtree truck farm had evolved into the Twin Falls Pickle Co. owne
 
 As the Great Depression began in 1930, Don graduated from Twin Falls High School. College was out of reach at least for a while. Saving money, Don lived at home, worked for the Idaho Power Co. and for his father in the pickle business. His parents had sold the property on the Snake River Canyon and bought a new location with more acreage and a big house on the west side of town. Mabel began managing it as ***Crabtree’s Tourist Home*** (and boarding house*)* while Ellis expanded the farm and pickle business.  
 
- {% include feature/image.html objectid="https://marcosvdotcom.github.io/cb_sandbox/images/3.jpg" width="20" alt="Vintage photo of a couple, in formal wear outside their business." caption="Mabel and Ellis Crabtree, circa 1936. Idaho Farmer newspaper." %}
+ {% include feature/image.html objectid="https://marcosvdotcom.github.io/cb_sandbox/images/3.png" width="50" alt="Vintage photo of a couple, in formal wear outside their business." caption="Mabel and Ellis Crabtree, circa 1936. Idaho Farmer newspaper." %}
 
 Despite the Depression, the Crabtrees were doing well enough to help their son enroll at **Long Beach Junior College** near Los Angeles in 1933 to study geology and paleontology. According to a *Twin Falls Times-News* story, Don, age 21, was eligible through the school for a position on a Mediterranean archaeological expedition. “Crabtree,” the article said, “had turned “his hobby during his youth into a deep interest in minerology, paleontology and archaeology and has made a study of the subject and gained more than local fame.”  
 
@@ -96,7 +96,7 @@ In the 2006 fourth edition of his classic textbook, “***Archaeology,”*** co-
 Only when Crabtree devised a chest crutch using the Spanish friar’s description, did he find success. “The resulting artifacts,” Thomas wrote, “were almost identical to prehistoric Folsom points.”   
 “Crabtree’s pioneering research unleashed an avalanche of experimentation in the fluting problem,” Thomas observed. Many researchers took on the challenge over the next two decades using variations of his techniques to uncover the Folsom secrets from 11,000 years ago.
 
- {% include feature/image.html objectid="https://marcosvdotcom.github.io/cb_sandbox/images/9.jpg" width="50" alt="Photo of biface point stone tool." caption="Crabtree Folsom point. Photo: Courtesy of Jim Woods, Twin Falls." %}
+ {% include feature/image.html objectid="https://marcosvdotcom.github.io/cb_sandbox/images/9.png" width="50" alt="Photo of biface point stone tool." caption="Crabtree Folsom point. Photo: Courtesy of Jim Woods, Twin Falls." %}
 
 At the height of the “experimental archaeology” explosion,  Don Crabtree was featured in a “living” exhibition, titled ***“Stone Toolmaking: Man’s Oldest Craft Recreated,”*** at the **American Museum of Natural History** in New York City. The exhibition opened Feb. 19, 1970, showcasing Don Crabtree’s flintknapping skills as he replicated stone artifacts from the museum’s collection. Interpretive panels accompanied the exhibition. An introductory panel explained that most stone tool technology had been lost in time. “Sc*holars must find other ways to reconstruct the technology and behavior of ancient man, and one of the best ways is ‘experimental archaeology,’ an approach which is currently being advanced by the flint-knapping of Mr. Donald Crabtree.*”   
 
