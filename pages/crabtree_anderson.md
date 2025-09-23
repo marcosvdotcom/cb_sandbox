@@ -93,7 +93,9 @@ With **National Science Foundation** funding and the Idaho State affiliation, a 
 ## The Crabtree Phenomenon
 
 In the 2006 fourth edition of his classic textbook, “***Archaeology,”*** co-author, archaeologist and historian **Dr. David Hurst Thomas** wrote that for 40 years Crabtree tried every way he could think of to make Folsom replicas. “In his (Crabtree’s) published account, he eventually described the 11 different methods he had tried to remove fluting flakes,” Thomas wrote. “Most simply did not work.”   
+
 Only when Crabtree devised a chest crutch using the Spanish friar’s description, did he find success. “The resulting artifacts,” Thomas wrote, “were almost identical to prehistoric Folsom points.”   
+
 “Crabtree’s pioneering research unleashed an avalanche of experimentation in the fluting problem,” Thomas observed. Many researchers took on the challenge over the next two decades using variations of his techniques to uncover the Folsom secrets from 11,000 years ago.
 
  {% include feature/image.html objectid="https://marcosvdotcom.github.io/cb_sandbox/images/9.png" width="50" alt="Photo of biface point stone tool." caption="Crabtree Folsom point. Photo: Courtesy of Jim Woods, Twin Falls." %}
@@ -111,11 +113,13 @@ In 1969, Crabtree received a letter from Karen Tobias, editor of *Books for Boys
 By the end of the 1970s, Don Crabtree was no longer able to do much flintknapping. Heart surgeries, Evelyn’s death from cancer in 1976, his smoking and a lifetime of striking rocks against rocks affected his health. His conversations continued with researchers, and he attended the WSU field schools in Stanley Basin, Idaho.   
 
 In June 1979, Donald Crabtree received an honorary doctorate from the **University of Idaho.**   
+
 “Don Crabtree deserved every bit of recognition that that came with his honorary degree,” said anthropologist Dr. J. Jeff Flenniken, who was an early Crabtree Field School student and who hosted the WSU field schools into the 1980s. “The real importance of what Don Crabtree did is not in the lithic collection at Idaho but in what Don showed people how to do. He could see things that I didn’t. He could see things in three dimensions. I can’t name anybody who came close to Don Crabtree,” Flenniken said.   
 
  {% include feature/image.html objectid="https://marcosvdotcom.github.io/cb_sandbox/images/11.jpg" width="50" alt="A man in a graduation outfit, with cap, poses with a similar aged woman" caption="Don Crabtree, 67, and his younger sister, Helen Rose Crabtree Anderson, 64, at the UI honorary doctorate ceremony, 1979. Photo: Anderson family photo." %}
 
 Don Crabtree died at age 68 in November 1980. At his death, the Crabtree lithic collection and research papers went to the **Alfred W. Bowers Laboratory of Anthropology at the University of Idaho.** The collection includes 3,154 stone tool replications made by Crabtree and by others as well as 4,391 archival items \-- photographs**,** slides, research documents, and correspondence.  
+
 In 2021, the **University of Idaho Library and the Bowers Lab** received a $240,206 three-year grant to digitize the Crabtree collection, searchable at the UI Library Donald E. Crabtree Lithic Technology Collection website.
 
 {% include feature/image.html objectid="https://marcosvdotcom.github.io/cb_sandbox/images/12.png" width="50" alt="Black and white photo of a man flintknapping" caption="Don Crabtree at the American Museum of Natural History, NYC, 1970. Photo: AMNH." %}
