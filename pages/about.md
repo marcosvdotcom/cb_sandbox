@@ -20,10 +20,7 @@ This three-year project (4/1/2021 to 3/31/2024) was a collaborative effort betwe
 
 Donald E. Crabtree (1912-1980) was an influential American experimental archaeologist, who's innovative efforts helped establish the field of experimental archaeology. Throughout his life, Crabtree developed his hobby into a true mastery of flintknapping, complete with his own distinct styles, technical innovations, and signature creative practices, along with a truly world class knowledge and understanding of stone tools and their creation.  
 
-<a href="https://www.lib.uidaho.edu/digital/crabtree/items/ce_cd_d4_3508-a.html">
-	<img src="https://objects.lib.uidaho.edu/crabtree/small/ce_cd_d4_3508-a_sm.jpg" alt="Alt Thext" width="400" >
-</a><br>
-*Crabtree was particulary well-known for his incredible free form [eccentrics](artifacts/browse.html#eccentric), many of which are at scales of 1" to 2" inches or less*
+ {% include feature/image.html objectid="https://objects.lib.uidaho.edu/crabtree/small/ce_cd_d4_3508-a_sm.jpg" width="75" alt="A flintworked stone, the stone is red and heart shaped" caption="Crabtree was particulary well-known for his incredible free form eccentrics, many of which are at scales of 1 to 2 inches or less" %}_Browse more Crabtree [eccentrics](artifacts/browse.html#eccentric)._
 
 Crabtree continues to be a major influence in experimental archaeology today, with his legacy living on in the form of his many incredible original flintknapped pieces, his textbook "An Introduction to Flintworking" - which is still an authoritative resource on lithics terminology, and in the living knowledge he passed onto participants in his field school, knowledge which those participants have in many cases passed along to their children and students.
 
@@ -43,7 +40,6 @@ As we sought to open up this hidden collection, it became evident that we would 
 These questions are not eaisly answered or resolved. Instead we approachd them by searching for ways to constructively critique this collection and its themes, most clearly through our interviews with Advisory Board members. With this critique, we sought to be candid about cultural and knowledge appropriation and surface collecting or looting within archaeological practice and avocational flintknapping, as well as push archaeology and librarianship toward greater honesty and openness when creating digital collections. 
 
 While we had initially conceptualized that the website would contain some of the exemplary Native or Indigenous created pieces, as the project progressed and the grant team learned more about this collection and the obscured histories of the unprovenanced artifacts, it became clear that we needed to take a different approach with these items. As such, we decided not to share any 2D images or 3D models of unprovenanced artifacts created by uncredited Native and Indigenous people on the project website. This decision was based on many conversations with our Advisory Board members, our own interrogation of the ethics of archaeology and librarianship/archival science, self-reflection of our own ethics and morals in relation to this collection, and recent changes to the United States’ Native American Graves Protection and Repatriation Act ([Fitz Gibbon, 2023](https://culturalpropertynews.org/nagpra-major-changes-proposed-for-2023-to-native-american-repatriation-law/ )). The complete metadata including unprovenanced items will be available on this website, and all photos and 3D models will be preserved by the University of Idaho’s Center for Digital Inquiry and Learning (CDIL).
-
 
 ## Project Staff
 
