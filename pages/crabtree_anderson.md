@@ -13,7 +13,7 @@ Mostly self-educated, Crabtree was a singular expert on the technology and scien
 
 {% include feature/image.html object="https://marcosvdotcom.github.io/cb_sandbox/images/1.png" alt="Donald Crabtree stands on a desk in a typical university lab, preparing to use his self-constructed chest crutch to punch an obsidian core" caption="Crabtree demonstrating his reinvented chest crutch method of 'punching' blades from an obsidian core, 1966. 'Flintknapper at Work,' Recorder 'Red lake' publication. Society of American Archaeology 1966" %}
 
- {% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg" width="75" alt="Frank B. Robinson at the Organ" %}
+ {% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg" width="75" alt="Frank B. Robinson at the Organ" caption="test caption" %}
 
  {% include feature/image.html objectid="https://marcosvdotcom.github.io/cb_sandbox/images/1.png" width="75" alt="Donald Crabtree stands on a desk in a typical university lab, preparing to use his self-constructed chest crutch to punch an obsidian core" %}
 
